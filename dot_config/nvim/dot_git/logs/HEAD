@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 c00336ebad87d0b23bf75e7db3cb4988b5b1411f rlchen <rlchen@DESKTOP-PR1T72A.(none)> 1718174240 +0800	clone: from github.com:r1cheu/nvim.git
+c00336ebad87d0b23bf75e7db3cb4988b5b1411f 22f42e6f62b7fb169512639c214fd05ffdf45c93 r1cheu <chenrulei@cemps.ac.cn> 1718441907 +0800	commit: add python lsp
+22f42e6f62b7fb169512639c214fd05ffdf45c93 cdc59f4ddbf3806dd0bcd70d77f3eeb1fd209fc5 r1cheu <chenrulei@cemps.ac.cn> 1718794751 +0800	commit: remove hardtime
+cdc59f4ddbf3806dd0bcd70d77f3eeb1fd209fc5 416e3ba20050b7e077b680fc27c08ef85785c01c r1cheu <chenrulei@cemps.ac.cn> 1718796154 +0800	commit: format .lua using stylua
+416e3ba20050b7e077b680fc27c08ef85785c01c 0e955cac6b531b15ee55e38b265834fa5a65ed8d r1cheu <chenrulei@cemps.ac.cn> 1720836047 +0800	commit: add copilotchat
+0e955cac6b531b15ee55e38b265834fa5a65ed8d c5c08d1c942abe7ab9bda61c3fe7c8332328f460 r1cheu <chenrulei@cemps.ac.cn> 1720857579 +0800	commit: Refactor the key-map to accommodate updates from which-key.
+c5c08d1c942abe7ab9bda61c3fe7c8332328f460 4aa8ecf36aea1f0429322c594224de746c9b9d49 r1cheu <chenrulei@cemps.ac.cn> 1721127630 +0800	commit: clear lspconfig.lua
+4aa8ecf36aea1f0429322c594224de746c9b9d49 46c37597f3c2ebf1078285bde5722c7d98df4a60 r1cheu <chenrulei@cemps.ac.cn> 1721198665 +0800	commit: backup
+46c37597f3c2ebf1078285bde5722c7d98df4a60 170f70ad7b5e45e991761cc50cf1b816d5a9b3b2 r1cheu <chenrulei@cemps.ac.cn> 1723968878 +0800	commit: regular update
